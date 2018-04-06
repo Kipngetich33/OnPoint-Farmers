@@ -79,8 +79,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME':'ftp',
-        'USER':'newton',
-        'PASSWORD':'newton'
+        'USER':'vincent',
+        'PASSWORD':'Empharse333'
     }
 }
 
